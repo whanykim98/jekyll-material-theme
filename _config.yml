@@ -8,7 +8,7 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
 project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: https://github.com/whanykim98/whanykim98.github.io/commit/48ad5739f3f9a771acdb5d023ee21ccae4cf2b93
 project_one_icon: location_on
 
 project_two: Second Project
