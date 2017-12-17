@@ -6,8 +6,8 @@ description: #Write an awesome description for your new site here. You can edit 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
+project_one: "Music set top box Project"
+project_one_description: This is Music set top box Project
 project_one_url: https://github.com/whanykim98/whanykim98.github.io/commit/48ad5739f3f9a771acdb5d023ee21ccae4cf2b93
 project_one_icon: location_on
 
